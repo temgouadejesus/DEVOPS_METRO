@@ -1,3 +1,1 @@
-common leo
-fucyuvjkh
-new line leo
+print("this is leo line")
